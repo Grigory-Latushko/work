@@ -4,7 +4,7 @@ header {
     font-style: italic;
     border: darkblue solid 1px;
     background: #bcbe97;
-    margin: 20px 0;
+    margin: 10px 0;
     padding: 10px;
 }
 .container {
@@ -16,6 +16,7 @@ header {
 .menu {
     border: darkblue solid 1px;
     width: 80%;
+    margin: 10px 0 10px 0;
     float: right;
     /*overflow: hidden;*/
     }
@@ -25,11 +26,13 @@ header {
     padding: 20px;
 }
 nav {
-    margin: 20px 10px;
+    margin: 2px 1px;
     padding: 10px;
     border: forestgreen solid 10px;
     background: url('img/background11.png');
     width: 10%;
+    height: 500px;
+    float: left;
     overflow: hidden;
    }
 footer {
@@ -42,8 +45,8 @@ footer {
     clear: both;
 }
 .contact-form {
-    width: 70%;
-    padding: 2%;
+    width: 83%;
+    padding: 5px;
     border: #444 solid 2px;
     margin: 10px 0;
     float: right;

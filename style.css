@@ -1,0 +1,35 @@
+header {
+    height: 50px;
+    text-align: right;
+    font-style: italic;
+    border: darkblue solid 1px;
+    margin: 20px;
+    padding: 10px;
+}
+.container {
+    width: 1000px;
+    margin: auto;
+    padding: 1px;
+}
+.menu {
+    border: darkblue solid 1px;
+}
+.content {
+    text-align:justify;
+    border: darkblue solid 1px;
+    padding: 20px;
+}
+nav {
+    margin: 20px;
+    padding: 10px;
+    border: darkblue solid 1px;
+    width: auto;
+
+}
+footer {
+    margin: 20px;
+    padding: 10px;
+    height: 40px;
+    border: darkblue solid 1px;
+    text-align: center;
+}

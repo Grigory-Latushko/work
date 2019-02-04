@@ -3,12 +3,13 @@ header {
     text-align: right;
     font-style: italic;
     border: darkblue solid 1px;
-    margin: 20px;
+    /*margin: 20px;*/
     padding: 10px;
 }
 .container {
     width: 1000px;
-    margin: auto;
+    /*margin: auto;*/
+    margin: 10px 0;
     padding: 1px;
 }
 .menu {
@@ -20,14 +21,12 @@ header {
     padding: 20px;
 }
 nav {
-    margin: 20px;
+    /*margin: 20px;*/
     padding: 10px;
     border: darkblue solid 1px;
-    width: auto;
-
 }
 footer {
-    margin: 20px;
+    /*margin: 20px;*/
     padding: 10px;
     height: 40px;
     border: darkblue solid 1px;

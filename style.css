@@ -57,7 +57,10 @@ footer {
 }
 .h1 {
     width: 200px;
-    /*float: right;*/
+    float: right;
     border: black solid 1px;
     overflow: hidden;
+}
+.text {
+    text-align: justify;
 }
